@@ -8,6 +8,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+%26+AI+Developer;Real-Time+Voice+AI+Engineer;Building+AI+SDR+Call+Agents;FastAPI+%7C+Twilio+%7C+Ollama&center=true&width=600&height=45">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHYAMIII&show_icons=true&theme=tokyonight" />
+</p>
+
 
 ---
 
