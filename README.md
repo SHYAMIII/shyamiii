@@ -43,7 +43,7 @@
 
 🔹 **AI Voice Calling Platform**  
 > Real-time AI agent for inbound & outbound calls  
-🔗 https://github.com/SHYAMIII/scratch-elevenn-labs-copy
+🔗 https://github.com/SHYAMIII/Elevenlabs-alternative-service
 
 ---
 
