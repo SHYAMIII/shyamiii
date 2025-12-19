@@ -53,4 +53,4 @@
 - AI Voice SaaS collaborations
 - Startup & enterprise contracts
 
-📧 Email: your@email.com
+📧 Email: shyamghosh2004@gmail.com
