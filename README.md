@@ -15,37 +15,29 @@
 
 🔹 AI Voice Calling Platform (ElevenLabs / Vapi alternative)  
 🔹 Real-Time AI SDR & Lead Qualification System  
-🔹 Twilio + Deepgram + LLM Streaming Agents  
 🔹 Sub-1s Latency Conversational AI on Calls  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend & Infra
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-### AI & Voice
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+### Voice & AI
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio)
-![Deepgram](https://img.shields.io/badge/Deepgram-1A1A1A?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 🔹 **AI Voice Calling Platform**  
-> Real-time AI agent for inbound & outbound calls  
-🔗 https://github.com/SHYAMIII/scratch-elevenn-labs-copy
+https://github.com/SHYAMIII/scratch-elevenn-labs-copy
 
 ---
 
-## 🤝 Let’s Build
+## 🤝 Contact
 
-💼 Open to:
-- AI Voice SaaS collaborations
-- Startup & enterprise contracts
-
-📧 Email: your@email.com
+📧 your@email.com
