@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="shyam.png" width="150" style="border-radius: 50%" />
   
   <h1>Hi, I'm Shyam</h1>
   <h3>Building Real-Time AI Voice Agents & Calling Platforms</h3>
