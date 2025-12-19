@@ -1,54 +1,43 @@
-<div align="center">
-  
-  <h1>Hi, I'm Shyam</h1>
-  <h3>Building Real-Time AI Voice Agents & Calling Platforms</h3>
-  
-  <p>
-    <strong>ElevenLabs & Vapi-style AI Call Agents • Ultra-Low Latency • LLM-Powered</strong>
-  </p>
-  
-  <p>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+%26+AI+Developer;Real-Time+Voice+AI+Engineer;Building+AI+SDR+Call+Agents;FastAPI+%7C+Twilio+%7C+Ollama&center=true&width=600&height=45&color=ffffff&size=20">
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=SHYAMIII&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=6366f1" />
-  </p>
-</div>
+<h1 align="center">Hi 👋, I'm Shyam</h1>
+<h3 align="center">Building Real-Time AI Voice Agents & Calling Platforms</h3>
+
+<p align="center">
+🚀 ElevenLabs & Vapi-style AI Call Agents • ⚡ Ultra-Low Latency • 🤖 LLM-Powered
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+%26+AI+Developer;Real-Time+Voice+AI+Engineer;Building+AI+SDR+Call+Agents;FastAPI+%7C+Twilio+%7C+Ollama&center=true&width=600&height=45">
+</p>
 
 ---
 
-## 🔧 **Current Projects**
+## 🚀 What I’m Building
 
-### **AI Voice Calling Platform**
-> ElevenLabs/Vapi-style alternative for real-time AI voice agents
-- **Tech Stack:** FastAPI, Ollama, Twilio, Deepgram
-- **Features:** Real-time AI agents for inbound/outbound calls, sub-1s latency
-- **Repository:** [Elevenlabs-alternative-service](https://github.com/SHYAMIII/Elevenlabs-alternative-service)
+🔹 AI Voice Calling Platform (ElevenLabs / Vapi alternative)  
+🔹 Real-Time AI SDR & Lead Qualification System  
+🔹 Sub-1s Latency Conversational AI on Calls  
 
 ---
 
-## 🛠 **Technical Stack**
+## 🛠 Tech Stack
 
-**Backend & Infrastructure:**
-- **Python** • **FastAPI** • **Docker**
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
-**AI & Voice Technologies:**
-- **Ollama** • **Twilio** • **Deepgram**
-
-**Specializations:**
-- Real-time AI voice agents
-- Ultra-low latency systems (<1s response)
-- LLM-powered call automation
-- Full-stack AI development
+### Voice & AI
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 ---
 
-## 📞 **Contact**
+## 📌 Featured Project
 
-**Email:** shyamghosh2004@gmail.com
+🔹 **AI Voice Calling Platform**  
+https://github.com/SHYAMIII/scratch-elevenn-labs-copy
 
-**Interested in:**
-- AI Voice SaaS collaborations
-- Startup & enterprise contracts
-- Building production-ready voice AI systems
+---
+
+## 🤝 Contact
+
+📧 your@email.com
