@@ -1,4 +1,4 @@
-<img src="banner.png" />
+<img src="shyam.png" />
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">Building Real-Time AI Voice Agents & Calling Platforms</h3>
 
