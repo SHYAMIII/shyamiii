@@ -40,4 +40,4 @@ https://github.com/SHYAMIII/scratch-elevenn-labs-copy
 
 ## 🤝 Contact
 
-📧 your@email.com
+📧 shyamghosh2004@email.com
